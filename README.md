@@ -10,7 +10,7 @@
 
 I have programming experience using C++, Java, JavaScript, and HTML in college (undergrad and now grad school). Additionally, I have experience using Python and database programming languages like SQL in my job background. I also have some experience using Excel and Power Query in more of a work context.
 
-## [CIS 641 F2026 Project - Team WildData](https://jwildes4.github.io/GVSU-CIS641-WildData/)
+### [CIS 641 F2026 Project - Team WildData](https://jwildes4.github.io/GVSU-CIS641-WildData/)
 
 ## CIS 641 F2026 Project Description
 
